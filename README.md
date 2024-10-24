@@ -1,4 +1,4 @@
-# credit-risk-model-ml-project
+credit-risk-model-ml-project
 Lauki Finance: Credit Risk Modelling
 This project implements a credit risk modeling web application using Streamlit. The app collects key financial and personal details about loan applicants, computes metrics such as loan-to-income ratio, and predicts the risk of default. The result includes the default probability, credit score, and rating.
 
@@ -19,7 +19,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/credit-risk-modelling.git
+git clone https://github.com/kapilcharbhare/Credit-risk-model-with-machine-learning.git
 cd credit-risk-modelling
 Install dependencies
 
